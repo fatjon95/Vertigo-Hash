@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertigo-Hash", "Vertigo-Hash\Vertigo-Hash.csproj", "{419F3F84-F379-44F1-92D7-D0967317F801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertigo-Hash-Tests", "Vertigo-Hash-Tests\Vertigo-Hash-Tests.csproj", "{F4675E9B-881D-497E-993B-4C15BF02DE79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419F3F84-F379-44F1-92D7-D0967317F801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419F3F84-F379-44F1-92D7-D0967317F801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419F3F84-F379-44F1-92D7-D0967317F801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419F3F84-F379-44F1-92D7-D0967317F801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4675E9B-881D-497E-993B-4C15BF02DE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4675E9B-881D-497E-993B-4C15BF02DE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4675E9B-881D-497E-993B-4C15BF02DE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4675E9B-881D-497E-993B-4C15BF02DE79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F52EF73-F6D4-422B-A2BA-CCF8FD703F8A}
+	EndGlobalSection
+EndGlobal
